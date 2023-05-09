@@ -1,5 +1,5 @@
 # ProjectPS1
-Project PS1
+Project PS1: WZC Witte Meren
 
 Deze repository bevat de pdf's van posters en brochures in verband met cybersecurity, 
 filmpjes over cybersecurity (meer bepaald over phishing en het belang van wachtwoorden).
