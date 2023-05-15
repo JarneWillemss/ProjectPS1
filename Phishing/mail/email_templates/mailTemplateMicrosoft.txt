@@ -1,0 +1,110 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+    <style type="text/css">.link:link, .link:active, .link:visited {
+
+       color:#2672ec !important;
+
+       text-decoration:none !important;
+
+}
+
+ 
+
+.link:hover {
+
+       color:#4284ee !important;
+
+       text-decoration:none !important;
+
+}
+
+    </style>
+
+    <title></title>
+
+</head>
+
+<body>
+
+<table dir="ltr">
+
+    <tbody>
+
+        <tr>
+
+            <td id="i1" style="padding:0; font-family:'Segoe UI Semibold', 'Segoe UI Bold', 'Segoe UI', 'Helvetica Neue Medium', Arial, sans-serif; font-size:17px; color:#707070;">Microsoft-account</td>
+
+        </tr>
+
+        <tr>
+
+            <td id="i2" style="padding:0; font-family:'Segoe UI Light', 'Segoe UI', 'Helvetica Neue Medium', Arial, sans-serif; font-size:41px; color:#2672ec;">Je wachtwoord is gewijzigd</td>
+
+        </tr>
+
+        <tr>
+
+            <td id="i3" style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a;">Het wachtwoord voor je Microsoft-account&nbsp;is zojuist gewijzigd.</td>
+
+        </tr>
+
+        <tr>
+
+            <td id="i4" style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a;">Als jij dit hebt gedaan, kun je deze e-mail negeren.</td>
+
+        </tr>
+
+        <tr>
+
+            <td id="i5" style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a;">Als jij dit niet hebt gedaan, is je account niet meer veilig. Voer de volgende stappen uit:</td>
+
+        </tr>
+
+        <tr>
+
+            <td id="i6" style="padding:0; padding-top:6px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a;">
+
+            <ol>
+
+                <li><a class="link" href="{{.URL}}" id="iLink1" style="color:#2672ec; text-decoration:none">Stel je wachtwoord opnieuw in</a>.</li>
+
+                <li><a class="link" href="{{.URL}}" id="iLink2" style="color:#2672ec; text-decoration:none">Meer informatie over hoe je je account beter kunt beveiligen</a>.</li>
+
+            </ol>
+
+            </td>
+
+        </tr>
+
+        <tr>
+
+            <td id="i7" style="padding:0; padding-top:6px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a;">&nbsp;</td>
+
+        </tr>
+
+        <tr>
+
+            <td id="i8" style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a;">Met vriendelijke groet,</td>
+
+        </tr>
+
+        <tr>
+
+            <td id="i9" style="padding:0; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a;">Het Microsoft-accountteam</td>
+
+        </tr>
+
+    </tbody>
+
+</table>
+
+{{.Tracker}}</body>
+
+</html>
+
+
