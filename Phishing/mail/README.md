@@ -1,1 +1,1 @@
-
+In deze folder vindt u alle bestanden terug die gebruikt zijn voor het maken van de phishing campagne. Je vindt er onder andere de website in terug die wordt getoond als er wordt ingelogd. Op deze website staat meer informatie over phishing. Ook vindt u er de landing page. Dit is de pagina waar men op terecht komt bij het klikken van de link in de phishing mail. Als laatste vindt u ook email templates en screenshots terug. De email templates zijn de mails die verstuurd zouden worden en de screenshots zijn foto's van het proces.
