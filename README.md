@@ -1,7 +1,7 @@
 # ProjectPS1
 Project PS1: WZC Witte Meren
 
-Cyeberaanvallen zijn nog steeds een groot probleem in de hele wereld. Het treft vele mensen en organisaties en leidt tot veel geldverlies. In deze cyberaanvallen is het vaak door onbewuste handelingen van de mens dat cybercriminelen binnen kunnen in het systeem en zo veel schade aan kunnen richten. Vaak kan de kans op een cyberaanval vermindert worden door het meer cyber aware maken van de mensen.
+Cyberaanvallen zijn nog steeds een groot probleem in de hele wereld. Het treft vele mensen en organisaties en leidt tot veel geldverlies. In deze cyberaanvallen is het vaak door onbewuste handelingen van de mens dat cybercriminelen binnen kunnen in het systeem en zo veel schade aan kunnen richten. Vaak kan de kans op een cyberaanval vermindert worden door het meer cyber aware maken van de mensen.
 
 Daarom hebben wij voor het woonzorgcentrum Witte Meren een cyberawareness campagne gemaakt.
 
