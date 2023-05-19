@@ -5,7 +5,7 @@ Cyeberaanvallen zijn nog steeds een groot probleem in de hele wereld. Het treft 
 
 Daarom hebben wij voor het woonzorgcentrum Witte Meren een cyberawareness campagne gemaakt.
 
-Wat hebben wij concreet gedaan? Aangezien een cursus geven vaak veel tijd in neemt en dit niet altijd evident is, omdat de medewerkers nie zomaar kunnen stoppen met het zorgen voor de mensen. Zijn wij aan de slag gegaan met het maken van posters en een brochure. Het lezen van een poster of brochure neemt niet veel tijd in en kan toch heel informatief zijn. Daarna hebben we ook enkele video's gemaakt. Net zoals de posters nemen onze video's niet veel tijd in beslag om te zien, maar komt de boodschap wel over.
+Wat hebben wij concreet gedaan? Aangezien een cursus geven vaak veel tijd in neemt en dit niet altijd evident is, omdat de medewerkers niet zomaar kunnen stoppen met het zorgen voor de mensen. Zijn wij aan de slag gegaan met het maken van posters en een brochure. Het lezen van een poster of brochure neemt niet veel tijd in en kan toch heel informatief zijn. Daarna hebben we ook enkele video's gemaakt. Net zoals de posters nemen onze video's niet veel tijd in beslag om te zien, maar komt de boodschap wel over.
 
 Als laatste hebben we ook nog een phishing mail. Deze hebben we heelaas niet helemaal kunnen afwerken, maar we hebben wel een goede proof of concept. Hierin kan wel te zien zijn, hoe dit gemaakt wordt.
 
